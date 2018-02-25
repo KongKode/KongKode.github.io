@@ -1,10 +1,11 @@
-# KongKode.github.io
-Website
+# KongKode.github.io // Website
 
-This is a dumpster site for quick access, aka url shortcut, for those on linux(:D this is now wget enabled, haha, thats it babe!).
+also from FREENOM license, (pretty nice tool :D)
 
-Feel free to dig in,try,test,WHATEVER GEEKYGANG; Just try to have fun, cause I AM!!!!!
-Im going to drop a lot of random things i do in my spare time.
+kongkode.tk
+
+This is a dumpster site, i'm going to learn full web developpement, so i need template for all kinda stuff.
+Feel free to dig in if you wish.
 
 That's it!!
 
